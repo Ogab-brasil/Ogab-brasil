@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Gabriel Brasil
+# 👋 Eae Dev's! Eu sou Gabriel Brasil
 
 Apaixonado por tecnologia e determinado a iniciar minha carreira como desenvolvedor!
 
