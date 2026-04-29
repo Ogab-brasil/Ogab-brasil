@@ -3,7 +3,7 @@
 Apaixonado por tecnologia e determinado a iniciar minha carreira como desenvolvedor!
 
 ## 🎓 Formação
-- Técnico em **Desenvolvimento de Software**
+- Bacharelado **Sistema de Informação**
 
 ## 💻 Skills & Tecnologias
 - **Python**
